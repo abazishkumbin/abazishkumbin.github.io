@@ -1,0 +1,33 @@
+- id: prev_page
+  translation: "Faqja më para"
+
+- id: next_page
+  translation: "Faqja më tutje"
+
+- id: read_time
+  translation:
+    one : "1 min"
+    other: "{{ .Count }} min"
+
+- id: words
+  translation:
+    one : "fjalë"
+    other: "{{ .Count }} fjalë"
+
+- id: toc
+  translation: "Tavela e Përmbajtjes"
+
+- id: translations
+  translation: "Gjuhët"
+
+- id: home
+  translation: "Hyrja"
+
+- id: edit_post
+  translation: "Ndrysho"
+
+- id: code_copy
+  translation: "Kopjo"
+
+- id: code_copied
+  translation: "Kopjuar!"
