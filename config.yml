@@ -18,7 +18,7 @@ minify:
 
 languages:
     en:
-        languageName: "English"
+        languageName: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 English"
         displayFullLangName: true
         weight: 1
         taxonomies:
@@ -44,7 +44,7 @@ languages:
                 # - name: Discord
                 #   url: https://discord.gg/ahpmTvhVmp
     al:
-        languageName: "Shqip"
+        languageName: "🇦🇱 Shqip"
         displayFullLangName: true
         weight: 2
         taxonomies:
