@@ -2,104 +2,124 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.derb.tech/posts/papermod/papermod-installation/</loc>
+    <loc>https://abazishkumbin.github.io/posts/papermod/papermod-installation/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/posts/papermod/papermod-features/</loc>
+    <loc>https://abazishkumbin.github.io/posts/papermod/papermod-features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/posts/markdown-syntax.fr/</loc>
+    <loc>https://abazishkumbin.github.io/posts/markdown-syntax.fr/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/posts/markdown-syntax.fa/</loc>
+    <loc>https://abazishkumbin.github.io/posts/markdown-syntax.fa/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/posts/papermod/</loc>
+    <loc>https://abazishkumbin.github.io/posts/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/tags/papermod/</loc>
+    <loc>https://abazishkumbin.github.io/tags/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/series/papermod/</loc>
+    <loc>https://abazishkumbin.github.io/series/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/posts/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.derb.tech/series/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.derb.tech/</loc>
+    <loc>https://abazishkumbin.github.io/posts/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="al"
-                href="https://blog.derb.tech/al/"
+                href="https://abazishkumbin.github.io/al/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.derb.tech/"
+                href="https://abazishkumbin.github.io/posts/"
                 />
   </url><url>
-    <loc>https://blog.derb.tech/tags/</loc>
+    <loc>https://abazishkumbin.github.io/series/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/categories/</loc>
+    <loc>https://abazishkumbin.github.io/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="al"
+                href="https://abazishkumbin.github.io/al/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abazishkumbin.github.io/"
+                />
+  </url><url>
+    <loc>https://abazishkumbin.github.io/tags/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://abazishkumbin.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/categories/hugo/</loc>
+    <loc>https://abazishkumbin.github.io/categories/hugo/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/tags/markdown/</loc>
+    <loc>https://abazishkumbin.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/posts/markdown-syntax/</loc>
+    <loc>https://abazishkumbin.github.io/posts/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="al"
+                href="https://abazishkumbin.github.io/al/posts/markdown-syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abazishkumbin.github.io/posts/markdown-syntax/"
+                />
+  </url><url>
+    <loc>https://abazishkumbin.github.io/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.derb.tech/posts/rich-content/</loc>
+    <loc>https://abazishkumbin.github.io/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/tags/shortcodes/</loc>
+    <loc>https://abazishkumbin.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/posts/placeholder-text/</loc>
+    <loc>https://abazishkumbin.github.io/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/tags/text/</loc>
+    <loc>https://abazishkumbin.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/posts/math-typesetting/</loc>
+    <loc>https://abazishkumbin.github.io/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/posts/emoji-support/</loc>
+    <loc>https://abazishkumbin.github.io/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.derb.tech/archives/</loc>
+    <loc>https://abazishkumbin.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="al"
-                href="https://blog.derb.tech/al/archives/"
+                href="https://abazishkumbin.github.io/al/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.derb.tech/archives/"
+                href="https://abazishkumbin.github.io/archives/"
                 />
   </url><url>
-    <loc>https://blog.derb.tech/search/</loc>
+    <loc>https://abazishkumbin.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="al"
-                href="https://blog.derb.tech/al/search/"
+                href="https://abazishkumbin.github.io/al/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.derb.tech/search/"
+                href="https://abazishkumbin.github.io/search/"
                 />
   </url>
 </urlset>

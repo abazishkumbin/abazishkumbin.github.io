@@ -2,46 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.derb.tech/al/alcategories/</loc>
-  </url><url>
-    <loc>https://blog.derb.tech/al/alseries/</loc>
-  </url><url>
-    <loc>https://blog.derb.tech/al/altags/</loc>
-  </url><url>
-    <loc>https://blog.derb.tech/al/archives/</loc>
+    <loc>https://abazishkumbin.github.io/al/posts/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.derb.tech/archives/"
+                href="https://abazishkumbin.github.io/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="al"
-                href="https://blog.derb.tech/al/archives/"
+                href="https://abazishkumbin.github.io/al/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://blog.derb.tech/al/search/</loc>
+    <loc>https://abazishkumbin.github.io/al/posts/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.derb.tech/search/"
+                href="https://abazishkumbin.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="al"
-                href="https://blog.derb.tech/al/search/"
+                href="https://abazishkumbin.github.io/al/posts/"
                 />
   </url><url>
-    <loc>https://blog.derb.tech/al/</loc>
+    <loc>https://abazishkumbin.github.io/al/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.derb.tech/"
+                href="https://abazishkumbin.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="al"
-                href="https://blog.derb.tech/al/"
+                href="https://abazishkumbin.github.io/al/"
+                />
+  </url><url>
+    <loc>https://abazishkumbin.github.io/al/alcategories/</loc>
+  </url><url>
+    <loc>https://abazishkumbin.github.io/al/alseries/</loc>
+  </url><url>
+    <loc>https://abazishkumbin.github.io/al/altags/</loc>
+  </url><url>
+    <loc>https://abazishkumbin.github.io/al/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abazishkumbin.github.io/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="al"
+                href="https://abazishkumbin.github.io/al/archives/"
+                />
+  </url><url>
+    <loc>https://abazishkumbin.github.io/al/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://abazishkumbin.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="al"
+                href="https://abazishkumbin.github.io/al/search/"
                 />
   </url>
 </urlset>
