@@ -15,7 +15,7 @@
     other: "{{ .Count }} fjalë"
 
 - id: toc
-  translation: "Tavela e Përmbajtjes"
+  translation: "Tabela e Përmbajtjes"
 
 - id: translations
   translation: "Gjuhët"
