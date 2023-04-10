@@ -3,7 +3,7 @@ title: Shkumbin's Journal
 paginate: 5
 theme: PaperMod
 
-publishDir: "docs"
+publishDir: "public"
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
