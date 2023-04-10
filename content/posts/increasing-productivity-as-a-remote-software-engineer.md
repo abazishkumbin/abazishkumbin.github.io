@@ -1,7 +1,7 @@
 ---
-title: "Increasing Productivity as a Remote Software Engineer: Evidence-based Tips and Strategies"
+title: "Increasing Productivity as a Remote Software Engineer"
 date: "2023-04-10"
-description: "Increasing Productivity as a Remote Software Engineer: Evidence-based Tips and Strategies"
+description: "Increasing Productivity as a Remote Software Engineer"
 tags: ["productivity"]
 categories: ["productivity"]
 ShowToc: true
