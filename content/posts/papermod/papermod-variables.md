@@ -4,8 +4,8 @@ summary: List of Front Matter variables used by PaperMod
 date: 2021-01-20
 tags: ["PaperMod"]
 author: "Aditya Telange"
-draft: true
 weight: 5
+draft: true
 ---
 
 **Below are variables used with this theme...**
