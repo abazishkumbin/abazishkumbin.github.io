@@ -6,6 +6,7 @@ weight: 2
 aliases: ["/papermod-features"]
 tags: ["PaperMod"]
 author: "Aditya Telange"
+draft: true
 ---
 
 ### Intro
