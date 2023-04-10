@@ -7,6 +7,7 @@ tags: ["markdown"]
 categories: ["hugo"]
 ShowToc: false
 ShowBreadCrumbs: false
+draft: true
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways.
