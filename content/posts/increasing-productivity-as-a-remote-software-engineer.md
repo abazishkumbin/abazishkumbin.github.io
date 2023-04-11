@@ -3,7 +3,7 @@ title: "Increasing Productivity as a Remote Software Engineer"
 date: "2023-04-10"
 description: "Increasing Productivity as a Remote Software Engineer"
 tags: ["productivity"]
-categories: ["productivity"]
+categories: ["Productivity"]
 ShowToc: true
 TocOpen: true
 draft: false
