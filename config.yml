@@ -79,7 +79,7 @@ outputs:
 
 params:
     env: production # to enable Google Analytics, opengraph, twitter-cards and schema.
-    description: "My journal with writings technology, and just life!"
+    description: "A personal journal with writings on technology, growth and life in general!"
     author: Shkumbin
     # author: ["Me", "You"] # multiple authors
 
